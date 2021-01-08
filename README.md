@@ -1,4 +1,4 @@
-# Hackintosh Gigabyte B460M Aorus Pro
+# Hackintosh Gigabyte B460M Aorus Pro(Bios: F4)
 
 
 > 2021年01月07日更新：升级 OC 版本至 0.6.5，kext 常规更新。
@@ -10,13 +10,15 @@
 | :--: | :-------------------------: |
 | CPU  |          I7-10700           |
 | 主板 |  Gigabyte B460M Aorus Pro   |
+| 内存 |  2 x 16GB DDR4 2666 MHz   |
 | 显卡 |   Intel UHD Graphics 630    |
 |      | AMD Radeon RX 590 8G        |
 | 声卡 |      Realtek ALCS1200A      |
-| 网卡 |        Intel I219V12        |
+| 网卡 |   Intel® Ethernet Connection I219V12   |
 |      |        Wi-Fi Bcm94360cd     |
 | 蓝牙 |     Wi-Fi Bcm94360cd 自带      |
-| 硬盘 |     WD SN750=2块 双系统分离      |
+|      |   Wifi + Bluetooth (Airdrop, AirPlay)     |
+| 硬盘 |     WD SN750=2块            |
 |      |      4T机械硬盘 2块 数据盘     |
 
 ## 功能
@@ -53,7 +55,9 @@
 |   项目   |         版本          |
 | :------: | :-------------------: |
 | OpenCore |         0.6.5         |
-|  macOS   | Catalina 10.15.7和Big Sur 11.1   |
+|  macOS   | Catalina 10.15.7   |
+|  macOS   | Big Sur 11.1   |
+|  Windows   | Windows 10   |
 
 ## 安装须知
 
