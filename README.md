@@ -39,9 +39,9 @@
 | :------------------: | :-----------------------------------: |
 |      Fast Boot       |           Above 4G decoding           |
 |     Secure Boot      |            Hyper-Threading            |
-|   Serial/COM Port    |          EHCI/XHCI Hand-off           |
+| Serial/COM Port（可打开） |          EHCI/XHCI Hand-off           |
 |         VT-d         |       OS type: Windows 10 WHQL        |
-|         CSM          | DVMT Pre-Allocated(iGPU Memory): 64MB |
+|     CSM（可打开）   | DVMT Pre-Allocated(iGPU Memory): 64MB |
 | Intel Platform Trust |            SATA Mode: AHCI            |
 |       CFG Lock       |                                       |
 |      Intel SGX       |                                       |
