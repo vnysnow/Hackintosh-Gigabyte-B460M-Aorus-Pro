@@ -52,6 +52,8 @@
 
 注3：单MAC系统时，出问题要BIOS引导进PE，需要开启GSM（开启此项一样可以使用苹果系统）。
 
+注4：Settings--Super IO Configuration--Serial Port--Enabled （USB串口已可以打开，一切正常）
+
 ## 引导及系统版本
 
 |   项目   |         版本          |
