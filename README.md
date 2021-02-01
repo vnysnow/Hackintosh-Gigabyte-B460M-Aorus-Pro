@@ -31,7 +31,7 @@
 | 网卡     | 正常                                      |
 | 蓝牙     | 正常                                      |
 | 睡眠     | 正常                                      |
-| USB      | 已定制，正常（默认未启用定制USB）               |
+| USB      | 已定制，正常（默认启用SSDT-UIAC.aml定制USB）  |
 
 ## BIOS 设置
 
@@ -41,7 +41,7 @@
 |     Secure Boot      |            Hyper-Threading            |
 | Serial/COM Port（可打开） |          EHCI/XHCI Hand-off           |
 |         VT-d         |       OS type: Windows 10 WHQL        |
-|     CSM（可打开）   | DVMT Pre-Allocated(iGPU Memory): 64MB |
+|     CSM（可打开）   | DVMT Pre-Allocated(iGPU Memory): 128MB |
 | Intel Platform Trust |            SATA Mode: AHCI            |
 |       CFG Lock       |                                       |
 |      Intel SGX       |                                       |
@@ -66,6 +66,6 @@
 ## 安装须知
 
 - 机型我设定为iMac20,2，有需要请自行更改，另需要自行补充三码。**仅适用安装 Catalina 10.15.6(19G2021) 及以上版本，如有需要请自行替换为 iMac19,1。**
-- DeviceProperties 中核显、声卡、网卡已内建，进系统后请根据需要修正总线地址或移除。
+- DeviceProperties 中核显、声卡、已内建，进系统后请根据需要修正总线地址或移除。
 - 理论上来讲本 EFI 在各个品牌 B460M 主板上通用，具体调整请自行解决。
 - 使用本 EFI **请务必先阅读上述文字**，完成各项 BIOS 设置，尤其是在 **OC 引导菜单**先解锁 CFG。
