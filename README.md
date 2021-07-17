@@ -16,7 +16,7 @@
 
 | 设备 |            型号             |
 | :--: | :-------------------------: |
-| CPU  |          I7-10700           |
+| CPU  |          I7-10850K          |
 | 主板 |  Gigabyte B460M Aorus Pro   |
 | 内存 |  2 x 16GB DDR4 2666 MHz   |
 | 显卡 |   Intel UHD Graphics 630    |
