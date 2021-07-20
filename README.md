@@ -1,4 +1,4 @@
-# Hackintosh Gigabyte B460M Aorus Pro(Bios: F4)
+# Hackintosh Gigabyte B460M Aorus Pro(Bios: F5)
 
 
 > 2021年07月14日更新：升级 OC 版本至 0.7.1，kext 常规更新。Releases版本含声音及主题。
