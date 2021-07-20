@@ -66,9 +66,9 @@
 
 |   项目   |         版本          |
 | :------: | :-------------------: |
-| OpenCore |         0.6.5         |
+| OpenCore |         0.7.1         |
 |  macOS   | Catalina 10.15.7   |
-|  macOS   | Big Sur 11.1   |
+|  macOS   | Big Sur 11.4   |
 |  Windows   | Windows 10   |
 
 ## 安装须知
