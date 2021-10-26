@@ -1,8 +1,10 @@
-# Hackintosh Gigabyte B460M Aorus Pro(Bios: F5)
+# Hackintosh Gigabyte B460M Aorus Pro(Bios: F6a)
 
 
+> 2021年10月26日更新：升级 OC 版本至 0.7.4，kext 常规更新。Releases版本含声音及主题。
+>
 > 2021年07月14日更新：升级 OC 版本至 0.7.1，kext 常规更新。Releases版本含声音及主题。
-> 
+>
 > 2021年04月20日更新：升级 OC 版本至 0.6.8，kext 常规更新。Releases版本含声音及主题。
 >
 > 2021年03月03日更新：升级 OC 版本至 0.6.7，kext 常规更新。Releases版本含声音及主题。 
@@ -66,9 +68,9 @@
 
 |   项目   |         版本          |
 | :------: | :-------------------: |
-| OpenCore |         0.7.1         |
+| OpenCore |         0.7.4         |
 |  macOS   | Catalina 10.15.7   |
-|  macOS   | Big Sur 11.4   |
+|  macOS   | Big Sur 11.6   |
 |  Windows   | Windows 10   |
 
 ## 安装须知
