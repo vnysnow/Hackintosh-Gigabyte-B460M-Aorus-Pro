@@ -70,7 +70,7 @@
 | :------: | :-------------------: |
 | OpenCore |         0.7.4         |
 |  macOS   | Catalina 10.15.7   |
-|  macOS   | Big Sur 11.6   |
+|  macOS   | Big Sur 11.6.1   |
 |  Windows   | Windows 10   |
 
 ## 安装须知
