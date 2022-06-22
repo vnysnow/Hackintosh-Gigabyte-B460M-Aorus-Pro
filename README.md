@@ -1,8 +1,10 @@
-# Hackintosh Gigabyte B460M Aorus Pro(Bios: F6a)
+# Hackintosh Gigabyte B460M Aorus Pro(Bios: F6)
 
 
+> 2022年06月22日更新：升级 OC 版本至 0.8.2，kext 常规更新。Releases版本含声音及主题。
+> 
 > 2021年11月04日更新：升级 OC 版本至 0.7.5，kext 常规更新。Releases版本含声音及主题。
->
+> 
 > 2021年10月26日更新：升级 OC 版本至 0.7.4，kext 常规更新。Releases版本含声音及主题。
 >
 > 2021年07月14日更新：升级 OC 版本至 0.7.1，kext 常规更新。Releases版本含声音及主题。
@@ -24,7 +26,7 @@
 | 主板 |  Gigabyte B460M Aorus Pro   |
 | 内存 |  2 x 16GB DDR4 2666 MHz   |
 | 显卡 |   Intel UHD Graphics 630    |
-|      | AMD Radeon RX 590 8G        |
+|      | AMD Radeon W 5100 8G        |
 | 声卡 |      Realtek ALCS1200A      |
 | 网卡 |   Intel® Ethernet Connection I219V12   |
 |      |        Wi-Fi Bcm94360cd     |
@@ -58,7 +60,7 @@
 |       CFG Lock       |                                       |
 |      Intel SGX       |                                       |
 
-注1：F4版本BIOS中可关闭CFG。F3版本 BIOS 中无 CFG Lock 解锁选项，可在安装前在选择界面中选择 **CFG Lock.efi** 进行解锁，后可正常安装。
+注1：F4版本之后的BIOS中可关闭CFG。F3版本 BIOS 中无 CFG Lock 解锁选项。
 
 注2：注意 Windows10 WHQL 模式可以解决主板 logo 模糊的问题。
 
@@ -70,10 +72,10 @@
 
 |   项目   |         版本          |
 | :------: | :-------------------: |
-| OpenCore |         0.7.5         |
-|  macOS   | Catalina 10.15.7   |
-|  macOS   | Big Sur 11.6.1   |
-|  macOS   | Monterey 12.0.1   |
+| OpenCore |         0.8.2         |
+|  macOS   | Big Sur 11.6.7   |
+|  macOS   | Monterey 12.4   |
+|  macOS   | Ventura 13.0   |
 |  Windows   | Windows 10   |
 
 ## 安装须知
