@@ -76,7 +76,7 @@
 |  macOS   | Big Sur 11.6.7   |
 |  macOS   | Monterey 12.4   |
 |  macOS   | Ventura 13.0   |
-|  Windows   | Windows 10   |
+|  Windows   | Windows 11   |
 
 ## 安装须知
 
